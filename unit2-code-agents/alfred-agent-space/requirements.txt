@@ -1,0 +1,4 @@
+ddgs
+markdownify
+requests
+smolagents
